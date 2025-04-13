@@ -1,11 +1,6 @@
-Can't create, edit, or upload … If your storage is full for 2+ years, your files may be deleted from Drive and Gmail.
----
 
-# **Amazon USA Sales Analysis Project**
 
-### **Difficulty Level: Advanced**
 
----
 
 ## **Project Overview**
 
